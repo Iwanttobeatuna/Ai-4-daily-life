@@ -170,7 +170,7 @@ dt {
 
 dd {
   margin-bottom: 0.5rem;
-  margin-left: 0;
+  margin-left: 1rem;
 }
 
 blockquote {
@@ -852,7 +852,7 @@ progress {
 
 .g-5,
 .gx-5 {
-  --bs-gutter-x: 3rem;
+  --bs-gutter-x: 10rem;
 }
 
 .g-5,
@@ -11086,7 +11086,7 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .masthead {
-  background-color: #f8f9fa;
+  background-color: #fff;
   padding-top: 9.5rem;
   padding-bottom: 5rem;
 }
